@@ -1,9 +1,11 @@
 import express from "express";
 const app = express();
 import mongoose from "mongoose";
+import blogRouter from "./routes/blog-router";
 import router from "./routes/user";
 app.use(express.json());
 app.use("/api/user", router);
+app.use("/api/blog", blogRouter);
 
 mongoose
   .connect(
