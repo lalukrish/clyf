@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/clyf/static/css/main.827893e8.css",
-    "main.js": "/clyf/static/js/main.0f5f9305.js",
+    "main.js": "/clyf/static/js/main.3e7215f9.js",
     "index.html": "/clyf/index.html",
     "main.827893e8.css.map": "/clyf/static/css/main.827893e8.css.map",
-    "main.0f5f9305.js.map": "/clyf/static/js/main.0f5f9305.js.map"
+    "main.3e7215f9.js.map": "/clyf/static/js/main.3e7215f9.js.map"
   },
   "entrypoints": [
     "static/css/main.827893e8.css",
-    "static/js/main.0f5f9305.js"
+    "static/js/main.3e7215f9.js"
   ]
 }
